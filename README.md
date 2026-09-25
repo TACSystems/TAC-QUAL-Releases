@@ -1,1 +1,1 @@
-Installers for TAC-QUAL by Precision Systems.
+Installers for TAC-QUAL by TAC Systems.
